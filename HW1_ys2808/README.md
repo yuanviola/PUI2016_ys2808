@@ -13,6 +13,6 @@ Assignment2:<br />
 2.write "export PUI2016=/home/cusp/ys2808/PUI2016_ys2808" and "Alias pui2016 = $PUI2016", save and exit the emacs window<br />
 3.put in pui2016 for trial to see whether the location will be in PUI2016_ys2808, and close terminal to end ssh, and relog in to try again for sure.<br />
 4.go to github to set up a repository named PUI2016_ys2808.and link it with the one in my compute account with the same name.<br />
-/Users/shiyuan/Documents/PUI/bash.png <br />
- /Users/shiyuan/Documents/PUI/screen\ shot\ for\ alias\ applied.png<br />
- /Users/shiyuan/Documents/PUI/screen\ shot\ for\ alias\ set.png 
+![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20bash.png) <br />
+![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20alias%20set.png)<br />
+![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20alias%20set.png)
