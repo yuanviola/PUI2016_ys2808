@@ -15,4 +15,4 @@ Assignment2:<br />
 4.go to github to set up a repository named PUI2016_ys2808.and link it with the one in my compute account with the same name.<br />
 ![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20bash.png) <br />
 ![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20alias%20set.png)<br />
-![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20alias%20set.png)
+![image](https://github.com/yuanviola/PUI2016_ys2808/blob/master/HW1_ys2808/screen%20shot%20for%20alias%20applied.png)
