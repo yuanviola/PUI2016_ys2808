@@ -7,9 +7,12 @@ Assignment1:<br />
 3.make some change by editting directly on github's txt documents, then make different change in local txt documents, try to push ,make comflicts. then pull the documents from github, edit through emacs, and add commit,push again, merging two conflicting documents.<br />
 4.go someone else's , A's documents to fork them.then go back to my github A's repository, and clone the directory to my local computer.edit the txt in my local documents and then push it to  A's repository in my github.then ask for a new pull request.<br />
 5.get pull request from someone else, accept it.<br />
-
-Assignment2:
-1.log into compute by my account,and make directory,use emacs to edit .bashrc
-2.write "export PUI2016=/home/cusp/ys2808/PUI2016_ys2808" and "Alias pui2016 = $PUI2016", save and exit the emacs window
-3.put in pui2016 for trial to see whether the location will be in PUI2016_ys2808, and close terminal to end ssh, and relog in to try again for sure.
-4.go to github to set up a repository named PUI2016_ys2808.and link it with the one in my compute account with the same name.
+ <br />
+Assignment2:<br />
+1.log into compute by my account,and make directory,use emacs to edit .bashrc<br />
+2.write "export PUI2016=/home/cusp/ys2808/PUI2016_ys2808" and "Alias pui2016 = $PUI2016", save and exit the emacs window<br />
+3.put in pui2016 for trial to see whether the location will be in PUI2016_ys2808, and close terminal to end ssh, and relog in to try again for sure.<br />
+4.go to github to set up a repository named PUI2016_ys2808.and link it with the one in my compute account with the same name.<br />
+/Users/shiyuan/Documents/PUI/bash.png <br />
+ /Users/shiyuan/Documents/PUI/screen\ shot\ for\ alias\ applied.png<br />
+ /Users/shiyuan/Documents/PUI/screen\ shot\ for\ alias\ set.png 
