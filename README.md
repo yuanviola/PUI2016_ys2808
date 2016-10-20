@@ -1,7 +1,7 @@
 # PUI2016
-HW1:<\br>
-1: github setup, merge and fork
-2: environmental variable
-3 ec: try to plot
+HW1: </br>
+1: github setup, merge and fork</br>
+2: environmental variable</br>
+3 ec: try to plot</br>
 
-HW2:
+HW2:</br>
