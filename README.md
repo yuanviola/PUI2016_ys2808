@@ -16,16 +16,17 @@ Additional: ZTEST equation:$ Z = \frac{\mu_{pop} - \mu_{sample}}{\sigma / \sqrt{
 3.exam new bus time will not be less(null hypothesis) by ZTEST</br>
 
 HW4:</br>
-1.</br>
-2.</br>
-3.</br>
+1.review peer's citi bike.ipynb from HW3</br>
+2.find different statistic test in science paper, how to make a form chart in script</br>
+!3.NYC employ program effective or not, Z test , Chisq test</br>
+4.Pearson’s test; Spearman’s test;K-S test: assess correlation of two sample of a dataset (male and female)</br>
+extra credit: age distribution of day and night, are they of the same distribution?
 
 HW5:</br>
-1.</br>
-2.</br>
-3.</br>
+1.citi bike goodness of fit test, ks test, ad test, kl test(return entropy to indicate which model is better)</br>
+2.income gender bias：regression fit smf.olfs</br>
+3.form null hypothesis practice</br>
 
 HW6:</br>
-1.</br>
-2.</br>
-3.</br>
+1.combine 2 data files, chi sq test to compare 2 models, decide which to be x,which to be y</br>
+extra credit: colorbar map
