@@ -11,3 +11,6 @@ The most important experience here for future is to use [mask] and [~mask]to cho
 
 ASSIGNMENT 2:
 https://www.authorea.com/users/106764/articles/133585/_show_article
+
+# FBB you did a report on the wrong exercise!
+you were supposed to do a report on the citibike project you designed for homework 3, not on the citibike analysis I assigned.
