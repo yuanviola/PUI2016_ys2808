@@ -30,3 +30,16 @@ HW5:</br>
 HW6:</br>
 1.combine 2 data files, chi sq test to compare 2 models, decide which to be x,which to be y</br>
 extra credit: colorbar map
+
+HW7:</br>
+1.plot 1 sunflowers turned into black and white</br>
+2.plot 2 water complaints by zipcode</br>
+
+HW8:</br>
+1.identify 311 complainers demographic characters and internet infrastructure accessibility</br>
+
+HW9:</br>
+1.Time series analysis, discover event from MTA data</br>
+
+HW10:</br>
+1.geopandas, compare winter and summer citibike data geospatial correlation. find hotspot and coldspot
