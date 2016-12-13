@@ -37,9 +37,24 @@ HW7:</br>
 
 HW8:</br>
 1.identify 311 complainers demographic characters and internet infrastructure accessibility</br>
+2.try to find possible errors, like duplicate value, missing value
 
 HW9:</br>
 1.Time series analysis, discover event from MTA data</br>
+2.Find outlier,set significant interval (mean +- 3sigma)</br>
+3.Fourier transfer to identify periodic pattern</br>
+4.PCA to cluster</br>
 
 HW10:</br>
-1.geopandas, compare winter and summer citibike data geospatial correlation. find hotspot and coldspot
+1.geopandas, Moran I, compare winter and summer citibike data geospatial correlation. find hotspot and coldspot</br>
+2.boxplot</br>
+
+HW11:</br>
+1.Assignment 1: judge polygon contains a point or not ,find out which census tract contains CUSP </br>
+2.Assignment 2: Standardize time series by row!! and cluster them ,business count in NYC</br>
+3.plot different Kmeans clusters by different color</br>
+4.Agglomative clusting ,Dengrogram</br>
+
+HW12:</br>
+1.SQL get data, Asthma Dismissal data in NYC</br>
+2.semivariogram, to see if spatial correlation exist</br>
