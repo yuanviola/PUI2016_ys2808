@@ -1,3 +1,5 @@
+#### statistic test practice
+
 This home work assignment 1 and 2 is finished alone by myself. Assignment 3 and 4 with great help of Yao Wang. From Assignment 3 I got confused by the concept of \alpha , when p> \alpha is rejecting NULL hypothesis, when is admitting. 
 In assignment 3, I first didn't read Fedrica's notebook carefully.I calculated Chi Square by definition, which works, but complicated. Later I notice the notebook from Lab4 on class, there is a much easier way by using lambda in just one line. I am so confused by the easy way to calculated. And Yao explained that both is the same on maths.
 Assignment 4, one lesson is that null hyphothesis is not always false.In scipy.stats, it is usually true by default. Remember this! 
