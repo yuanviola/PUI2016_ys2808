@@ -44,6 +44,7 @@ HW9:</br>
 2.Find outlier,set significant interval (mean +- 3sigma)</br>
 3.Fourier transfer to identify periodic pattern</br>
 4.PCA to cluster</br>
+5.rolling mean and weighted average to smooth time series</br>
 
 HW10:</br>
 1.geopandas, Moran I, compare winter and summer citibike data geospatial correlation. find hotspot and coldspot</br>
