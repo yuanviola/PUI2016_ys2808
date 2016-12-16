@@ -1,4 +1,6 @@
 # PUI2016_ys2808/HW1_ys2808/README.md
+#### set up github
+
 with great help of Sabreen(TA),Yao Wang,Dongjie FAN, and some help from Victor Kristi.Thank them a lot!For assignmeng1, I met a lot of bugs, they helped me out and showed me once. Afterwards I did everything myself again to practice.For assignment 2, I googled and did by myself. YEAH! <br />
  <br />
 Assignment1:<br />
