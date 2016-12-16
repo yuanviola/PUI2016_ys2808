@@ -14,4 +14,4 @@ plot zipcodes' time series by KMeans-clusters</br>
 standardized time seires and then clustered by KMeans</br>
 cluster time serires by agglomative algorithm</br>
 make dendrogram plot</br>
-agglomative cluster I refer: https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
+#### agglomative cluster I refer: https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
