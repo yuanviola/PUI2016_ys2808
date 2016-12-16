@@ -48,12 +48,17 @@ HW9:</br>
 HW10:</br>
 1.geopandas, Moran I, compare winter and summer citibike data geospatial correlation. find hotspot and coldspot</br>
 2.boxplot</br>
+3.decompose trend,period,and residue</br>
+4.group data into ten groups(quantile)</br>
+5.LISA(local indicator of spatial autocorrelation)</br>
 
 HW11:</br>
 1.Assignment 1: judge polygon contains a point or not ,find out which census tract contains CUSP </br>
-2.Assignment 2: Standardize time series by row!! and cluster them ,business count in NYC</br>
-3.plot different Kmeans clusters by different color</br>
-4.Agglomative clusting ,Dengrogram</br>
+2.convert cooridnate system epsg, in shapefile
+3.intersect polygon and point in shapefile
+4.Assignment 2: Standardize time series by row!! and cluster them ,business count in NYC</br>
+5.plot different Kmeans clusters by different color</br>
+6.Agglomative clusting ,Dengrogram</br>
 
 HW12:</br>
 1.SQL get data, Asthma Dismissal data in NYC</br>
