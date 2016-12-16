@@ -1,3 +1,5 @@
+#### json file, plot data
+
 Assignment 1 and 2 is bymyself, Assignment 3 is with help of Yao Wang, and Extra Credit is with Henry Lynn
 
 In Assignment 1,I got stuck by somewhere , because under ['OnwardCalls'] there is a key named ['OnwardCall'] but sometimes the bus get lost in signal probably, I cannot retrieve the json data under ['OnwardCalls'] . So if I want to read what is in ['OnwardCall'], I failed always. It took me long time to debug here, by setting up 'if' to judge.
