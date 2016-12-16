@@ -54,8 +54,8 @@ HW10:</br>
 
 HW11:</br>
 1.Assignment 1: judge polygon contains a point or not ,find out which census tract contains CUSP </br>
-2.convert cooridnate system epsg, in shapefile
-3.intersect polygon and point in shapefile
+2.convert cooridnate system epsg, in shapefile</br>
+3.intersect polygon and point in shapefile</br>
 4.Assignment 2: Standardize time series by row!! and cluster them ,business count in NYC</br>
 5.plot different Kmeans clusters by different color</br>
 6.Agglomative clusting ,Dengrogram</br>
